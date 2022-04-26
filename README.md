@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayTCode
 - 👀 I’m interested in ... iOS Development
 - 🌱 I’m currently learning ... iOS Development
-- 💞️ I’m looking to collaborate on ... iOS Development Projects for beginners
+- 💞️ I’m looking to collaborate on ... iOS Development Projects to advanced my skills and help others advanced theirs, as well.
 - 📫 How to reach me ...
 
 <!---
